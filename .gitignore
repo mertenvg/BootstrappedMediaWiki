@@ -1,0 +1,6 @@
+# Prepend '!' to whitelisted files.
+!.gitignore
+!Bootstrapped.deps.php
+!Bootstrapped.php
+!README.md
+*
