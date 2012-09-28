@@ -28,7 +28,7 @@ $wgDefaultSkin = "bootstrapped";
 Disclaimer
 ==========
 
-This project has been tested on MediaWiki v1.18.2 with PHP5.3.10 and to my knowledge contains no malicious code intended to harm you, your data, or your pets. Use of this project is, however, at your own risk.
+This project has been tested on MediaWiki v1.18.2 with PHP v5.3.10 and to my knowledge contains no malicious code intended to harm you, your data, or your pets. Use of this project is, however, at your own risk.
 
 License
 =======
